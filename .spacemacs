@@ -1,0 +1,1 @@
+/home/passeride/.spacemacs
